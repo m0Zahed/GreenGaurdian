@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_color"
+    android:orientation="vertical">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My Plants"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="150dp"
+        android:textSize="18sp"/>
+
+    <ListView
+        android:id="@+id/userPlants"
+        android:layout_width="match_parent"
+        android:layout_height="571dp"
+        android:layout_marginTop="20dp"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/logoutButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="20dp"
+            android:text="Logout"
+            android:fontFamily="sans-serif-black"
+            android:background="@drawable/oval_button_shape"
+            android:textSize="18sp" />
+
+        <Button
+        android:id="@+id/AddPlantButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-black"
+        android:background="@drawable/oval_button_shape"
+        android:text="Add A Plant "
+        android:textSize="18sp" />
+
+    </LinearLayout>
+
+
+        <!--
+        <Button
+            android:id="@+id/DeleteButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="480dp"
+            android:background="@color/white"
+            android:text="Delete "
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="470dp"
+            android:background="@color/white"
+            android:text="Edit Plant "
+            android:textSize="18sp" />
+
+        -->
+
+
+    </LinearLayout>
+
+
