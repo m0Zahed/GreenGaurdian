@@ -1,5 +1,5 @@
 # GreenGuardian390
-[![Build Status](https://img.shields.io/maven-central/v/com.example/greenguardian390.svg)]
+[![Build Status](https://img.shields.io/maven-central/v/com.google/firebase:firebase-database:20.0.0.svg)]
 
 -----
 
