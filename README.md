@@ -1,5 +1,5 @@
 # GreenGuardian390
-[![Build Status](https://img.shields.io/maven-central/v/<groupId>/<artifactId>.svg)]
+[![Build Status](https://img.shields.io/maven-central/v/<com.example/greenguardian390.svg)]
 
 -----
 
