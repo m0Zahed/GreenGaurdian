@@ -9,4 +9,11 @@
 ## ⭐️ About the App
 The greenGaurdian app is an application to monitor the health of your plants. It provides you with live information about your plant. 
 It is designed by a group of students at concordia as part of an academic project. 
+1. First Register for an account. Then add a plant, its required moisture and temperature levels. 
+![image](https://github.com/m0Zahed/GreenGaurdian/assets/107864964/d99fb3a9-ecd6-4852-a59f-50654a9010e4)
+2. Click on the plant you want to view.
+![image](https://github.com/m0Zahed/GreenGaurdian/assets/107864964/adfc56cb-9141-4b8a-a6b0-4c28605f9b6a)
+3. Check the plants temperature and moisture levels.
+![image](https://github.com/m0Zahed/GreenGaurdian/assets/107864964/96f25682-6551-4d87-aca2-7259bacb5c86)
+
 
