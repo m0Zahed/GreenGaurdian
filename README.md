@@ -1,4 +1,4 @@
-# GreenGuardian390
+# GreenGuardian
 [![Gson](https://img.shields.io/badge/Gson-2.8.9-blue.svg)](https://search.maven.org/artifact/com.google.code.gson/gson/2.8.9/jar)
 [![Firebase Database](https://img.shields.io/badge/Firebase%20Database-20.0.0-orange.svg)](https://firebase.google.com/docs/database)
 [![JUnit](https://img.shields.io/badge/JUnit-4.13.2-green.svg)](https://junit.org/junit4/)
